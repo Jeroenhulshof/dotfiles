@@ -3,12 +3,14 @@ brew update
 brew upgrade
 
 apps=(
+	zsh
 	git
 	php
 	composer
 	node
 	redis
 	mariadb
+	go
 )
 
 # Install brew packages

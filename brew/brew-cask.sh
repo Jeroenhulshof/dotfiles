@@ -12,6 +12,7 @@ programs=(
 	tableplus
 	postman
 	sublime-text
+	iterm2
 )
 
 # Install brew packages
@@ -26,4 +27,5 @@ do
 	fi
 done
 
+echo "Setting Google Chrome as default browser..."
 open -a "Google Chrome" --args --make-default-browser
