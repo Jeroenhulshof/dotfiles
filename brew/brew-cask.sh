@@ -13,6 +13,8 @@ programs=(
 	postman
 	sublime-text
 	iterm2
+	docker
+	burp-suite
 )
 
 # Install brew packages
