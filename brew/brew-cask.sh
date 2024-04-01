@@ -8,6 +8,10 @@ programs=(
 	whatsapp
 	telegram
 	raycast
+	phpstorm
+	tableplus
+	postman
+	sublime-text
 )
 
 # Install brew packages
