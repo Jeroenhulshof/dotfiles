@@ -3,7 +3,6 @@ brew update
 brew upgrade
 
 apps=(
-	zsh
 	git
 	php
 	composer
