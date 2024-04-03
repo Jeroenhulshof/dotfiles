@@ -8,7 +8,7 @@ defaults write com.apple.finder AppleShowAllFiles -boolean true;
 defaults write com.apple.finder ShowStatusBar -boolean true;
 defaults write com.apple.finder _FXShowPosixPathInTitle -boolean true;
 
-# Show all extensions by default
+# Do not hide file extensions
 defaults write NSGlobalDomain AppleShowAllExtensions -boolean true;
 
 # Dock
