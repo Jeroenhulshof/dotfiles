@@ -13,6 +13,7 @@ defaults write NSGlobalDomain AppleShowAllExtensions -boolean true;
 
 # Dock
 defaults write com.apple.dock static-only -bool true;
+defaults write com.apple.dock orientation -string right
 
 # Do not write .DS_Store file
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true;

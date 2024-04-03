@@ -10,5 +10,6 @@ DOTFILES="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 . "$DOTFILES/brew/brew.sh"
 . "$DOTFILES/brew/brew-cask.sh"
 . "$DOTFILES/composer/composer.sh"
+. "$DOTFILES/osx/osx.sh"
 
 
